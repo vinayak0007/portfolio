@@ -108,7 +108,8 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 .intro {
 	display: table;
 	width: 100%;
-	padding: 0;
+	height:auto;
+	padding: 100px 20px 70px 100px;;
 	margin-bottom: 80px;
 	background: url(../img/intro-bg1234.png) no-repeat right top;
 	background-color: #e5e5e5;
@@ -438,3 +439,4 @@ color: #777;
     bottom: 30px;
   }
 }
+
