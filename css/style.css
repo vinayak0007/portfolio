@@ -111,7 +111,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	padding: 100px 20px 70px 100px;
 	margin-bottom: 80px;
 	background: url(../img/intro-bg1234.png) no-repeat right top;
-	background-color: #e5e5e5;
+	background-color: #fff;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
