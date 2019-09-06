@@ -107,7 +107,6 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 .intro {
 	display: table;
 	width: 100%;
-	height:auto;
 	padding: 0px 0px 100px 0px;
 	margin-bottom: 80px;
 	background: url(../img/intro-bg1234.png) no-repeat center center;
